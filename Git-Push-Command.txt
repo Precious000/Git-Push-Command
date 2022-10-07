@@ -1,0 +1,21 @@
+# This repo will record the process of pushing codes to Github using the Terminal
+
+*Create a repo on your Github account
+
+*Go to the terminal and navigate to the directory where your code is located(folder)
+
+*List the files in your directory folder using-ls
+
+*Type git init 
+
+* Type git add .
+
+* git status(To see all the files you've staged for commit)
+
+*git commit -m "Comment"- To commit the files from our local repo
+
+*git remote add origin (Then paste the url)
+
+*git push -u origin master
+
+*enter username and password
